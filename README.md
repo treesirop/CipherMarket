@@ -3,4 +3,5 @@ P2P encrypted chat and block trading / auction platform [Users can raise on-chai
 
 ## Email
 #### kaikaiwang41@gmail.com
+#### 2169564366@qq.com
 
